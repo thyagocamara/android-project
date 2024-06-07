@@ -13,7 +13,7 @@
 
 @font-face {
     font-family: 'Android';
-    src: url('../pacote-projeto-d010/fontes/idroid.otf') format('opentype');
+    src: url('../android-project-d010/fonts/idroid.otf') format('opentype');
     /*DOIS PONTOS '..' significa a pasta anterior*/
     font-weight: normal;
 }
